@@ -142,6 +142,16 @@ student-management-system/
 
 ---
 
+##  Demo Login Credentials
+
+For testing and evaluation, you can use the pre-configured accounts:
+
+| Role | Email Address | Password |
+|---|---|---|
+| **Administrator** | `admin.test@example.com` | `TestPass123!` |
+
+---
+
 ##  Instructions for Running the Website
 
 ### Prerequisites
